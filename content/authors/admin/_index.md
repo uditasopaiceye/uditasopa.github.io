@@ -1,43 +1,48 @@
 ---
 # Display name
-title: Yujie Zheng
+title: Udit Asopa
 
-# full name
-first_name: Yujie
-last_name: Zheng
+# Full name
+first_name: Udit
+last_name: Asopa
 
-# summary
-summary: Yujie Zheng is currently an assistant professor at UTD specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
+# Summary (shown on homepage and SEO description)
+summary: Udit Asopa is a SAR remote sensing engineer and GIS analyst with extensive experience in geospatial data processing, SAR analytics, and Earth observation applications for environmental intelligence.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: SAR Remote Sensing Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Texas at Dallas
+- name: ICEYE Oy, Finland
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on developing and applying new techniques to analyze a combination of geodetic observations to better understanding changes of the Earth’s surface related to natural and anthropogenic processes. 
+bio: I specialize in SAR and GIS-based Earth observation workflows for environmental monitoring, disaster response, and scientific analysis. With a focus on automation, reproducibility, and applied geospatial intelligence, I contribute to building scalable, data-driven solutions.
 
 # Interests to show in About widget
 interests:
-- Geodesy
-- Active Tectonics
-- Hydrology
-- Volcanology
+- Remote Sensing
+- SAR Processing
+- GIS and Earth Observation
+- Environmental Monitoring
+- Data Analytics
+- Disaster Response
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Geophysics
-    institution: Stanford University
-    year: 2020
-  - course: BS in Geophysics
-    institution: Peking University
-    year: 2014
+  - course: Master of Engineering in Remote Sensing and GIS
+    institution: Indian Institute of Remote Sensing (ISRO), India
+    year: 2019
+  - course: Post Graduate Diploma in Biomedical Instrumentation and Informatics
+    institution: CDAC, India
+    year: 2017
+  - course: Bachelor of Engineering in Electronics and Communication
+    institution: Rajasthan Technical University, India
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,29 +54,25 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/zheng_yujie
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://x.com/Udit_Asopa/
+- icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=T4j9T94AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/yjzhenglamarmota
-
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://github.com/uditasopaiceye
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/uditasopa
 - icon: cv
   icon_pack: ai
-  link: media/CV_yjzheng_fulllength.pdf
+  link: media/CV_UditAsopa_detailed.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: yujie.zheng@utdallas.edu
+email: udit.asopa@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an assistant professor at University of Texas at Dallas. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
-
-Our group website can be accessed at https://labs.utdallas.edu/imaging-radar-lab/.
+I am a SAR Remote Sensing Engineer with over five years of experience in satellite data analytics, SAR and InSAR processing, and GIS-based environmental intelligence. My work spans operational geospatial product development for disaster monitoring (hurricanes, wildfires), ground deformation studies, and environmental change detection using SAR, LiDAR, and optical datasets. I'm passionate about automation, clarity, and leveraging Earth observation for decision support in public and private sectors.
