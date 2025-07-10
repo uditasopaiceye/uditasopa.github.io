@@ -11,8 +11,8 @@ weight: 65
 
 active: true
 
-title: 'Research'
-subtitle: ''
+title: "**Projects**"
+subtitle: 'Projects that I have actively worked on'
 
 content:
   # Page type to display. E.g. project.
@@ -46,5 +46,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

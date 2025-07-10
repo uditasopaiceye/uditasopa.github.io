@@ -13,7 +13,7 @@ summary: Udit Asopa is a SAR remote sensing engineer and GIS analyst with extens
 superuser: true
 
 # Role/position/tagline
-role: SAR Remote Sensing Engineer
+role: "Remote Sensing Data Specialist (*official title: SAR Remote Sensing Engineer*)"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -52,27 +52,31 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/Udit_Asopa/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/uditasopaiceye
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/uditasopa
+- icon: github
+  icon_pack: fab
+  link: https://github.com/uditasopaiceye
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/Udit_Asopa/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: media/CV_UditAsopa_detailed.pdf
+  link: media/Udit_Asopa_CV_detailed.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: udit.asopa@gmail.com
+phone: "+358-403515447"
+address: Espoo, Finland
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 I am a SAR Remote Sensing Engineer with over five years of experience in satellite data analytics, SAR and InSAR processing, and GIS-based environmental intelligence. My work spans operational geospatial product development for disaster monitoring (hurricanes, wildfires), ground deformation studies, and environmental change detection using SAR, LiDAR, and optical datasets. I'm passionate about automation, clarity, and leveraging Earth observation for decision support in public and private sectors.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}} mini 1 page resumé{{< /staticref >}}.

@@ -16,6 +16,8 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
+mode = "system"  # Options: auto, light, dark
+#   If set to "system", the mode will automatically switch based on the user's system preferences
 day_night = true
 
 # Override the theme's font set (optional).
@@ -26,7 +28,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -45,7 +47,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "ICEYE Oy"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -78,7 +80,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = true, page = true, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -89,15 +91,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "udit.asopa@gmail.com"
-phone = ""
+phone = "+358-403515447"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Geoscience, ROC 2.301G, University of Texas at Dallas", city = "Richardson", region = "TX", postcode = "75080", country = "United States", country_code = "US"}
+address = {street = "Maarintie 6", city = "Espoo", region = "Uusimaa", postcode = "02150", country = "Finland", country_code = "FI"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.98644", longitude = "-96.75715"}
+coordinates = {latitude = "60.1871705356397", longitude = "24.81629542078727"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -118,10 +120,12 @@ contact_links = []
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "Udit_Asopa"  # X (formerly Twitter) username
+linkedin = "uditasopa"  # LinkedIn profile URL (without https://www.linkedin.com/in/)
+github = "uditasopaiceye"  # GitHub username
 
 ############################
 ## Regional Settings
@@ -141,13 +145,13 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {align = "c", show_logo = true, highlight_active_link = true, show_language = true, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
@@ -155,7 +159,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -169,7 +173,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = true
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
@@ -181,7 +185,7 @@ plugins_js  = []
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "IEEE"
 
 # Configuration of project pages.
 [projects]
@@ -270,3 +274,11 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  fas = true  # Font Awesome Solid icon pack https://fontawesome.com/icons?d=gallery&s=solid&m=free
+  fab = true  # Font Awesome Brands icon pack https://fontawesome.com/icons?d=gallery&s=brands&m=free
+  far = true  # Font Awesome Regular icon pack https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  fi = true  # Foundation icon pack https://zurb.com/playground/foundation-icon-fonts-3
+  mdi = true  # Material Design Icons https://materialdesignicons.com/
+  oct = true  # Octicons icon pack https://primer.style/octicons/
+  simple = true  # Simple Icons https://simpleicons.org/
+  zmdi = true  # Zocial icon pack https://zocial.smcllns.com/

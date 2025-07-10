@@ -12,7 +12,7 @@ authors:
 - Esther Stouthamer
 - Rob Govers
 date: "2020-12-08"
-doi: "https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/754443"
+doi: ""
 
 
 # Publication type.
@@ -41,5 +41,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-projects: [InSAR]
+projects: [insar]
 ---

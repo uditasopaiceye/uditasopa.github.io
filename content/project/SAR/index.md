@@ -1,6 +1,6 @@
 ---
 title: SAR Techniques and Fundamentals
-summary: Using Advanced SAR Techniques and fundamental research
+summary: My work in SAR focuses on advancing techniques like polarimetric decomposition, calibration, and 3D tomographic imaging to better characterize land and forest structure. Leveraging datasets from platforms such as UAVSAR and TerraSAR-X, I’ve investigated frequency-dependent scattering, refined PolSAR calibration workflows, and developed vertical profiling methods using PolSAR tomography. These efforts support applications in ecosystem monitoring, geophysical modeling, and the interpretation of complex surface features.
 tags:
 - SAR
 - SAR Polarimetry
@@ -11,14 +11,13 @@ tags:
 - UAVSAR
 - TerraSAR-X
 - Remote Sensing
-date: "2016-04-27"
+date: "2021-02-23"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  name: sentinel1.png
-  caption: 'Sentinel-1 satellite and examples of land applications: Monitoring of earthquakes, urban areas, land subsidence and flooding mapping *(Source: ESA)*[https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2014/03/safer_seas_with_sentinel-1/14338959-1-eng-GB/Safer_seas_with_Sentinel-1_pillars.png]'
+  caption: 'Sentinel-1 satellite and examples of land applications: Monitoring of earthquakes, urban areas, land subsidence and flooding mapping [*Source: ESA*](https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2014/03/safer_seas_with_sentinel-1/14338959-1-eng-GB)'
   focal_point: Smart
 
 links:

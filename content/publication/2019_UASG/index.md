@@ -37,9 +37,9 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 
-projects: [SAR]
+projects: [sar]
 ---
 
