@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: <b>Experience</b>
 subtitle: My professional work experience
 
 # Date format for experience

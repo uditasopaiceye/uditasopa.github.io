@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 65
 
 active: true
-title: 'Education History'
+title: <b>Education</b>
 subtitle: 
 
 content:

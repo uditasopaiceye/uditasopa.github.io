@@ -7,14 +7,14 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
-title: News
+title: <b>Update</b>
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: update
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
