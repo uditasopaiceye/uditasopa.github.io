@@ -1,6 +1,6 @@
 ---
-title: "Geospatial Data Scientist | Remote Sensing Analyst (*official title: SAR Remote Sensing Engineer*)" 
-subtitle: ICEYE Oy
+title: "Geospatial Data Scientist | Remote Sensing Analyst" 
+subtitle: "(*official title: SAR Remote Sensing Engineer*) at ICEYE Oy, Finland"
 summary: At ICEYE, I contributed to the development of geospatial disaster response solutions by leveraging SAR-based analytics, raster processing, and change detection techniques. My work spanned the Hurricane Rapid Impact and Wildfire Insights products, where I generated scalable raster workflows and hexgrid analytics for building-level damage assessment and exposure mapping across affected regions.
 tags:
 - SAR
@@ -21,16 +21,13 @@ layout: single
 external_link: ''
 
 image:
+  name: iceye.jpg
   caption: 'ICEYE [*Source: Artemis.bm*](https://www.artemis.bm/news/iceye-launches-hurricane-solution-that-shows-parametric-potential)'
   focal_point: Smart
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#  slides: example
 ---
+<img src="/media/iceye.jpg" alt="ICEYE product illustration from artemis.bm" style="width:100%; max-width:800px; margin: 2rem auto; display:block;">
+
 ## **Geospatial Intelligence for Rapid Disaster Response**
 As a remote sensing and geospatial specialist at ICEYE, I worked across two of the company’s flagship catastrophe response solutions—Hurricane Rapid Impact and Wildfire Insights. These products enable insurance and emergency response sectors to detect, assess, and act on disaster impact within hours using ICEYE’s proprietary SAR satellite constellation.
 
