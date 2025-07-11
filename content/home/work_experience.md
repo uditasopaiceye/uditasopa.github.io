@@ -53,7 +53,7 @@ experience:
           <li>Scientific reporting</li>
         </ul>
       </div>
-      <p style="margin-top: 1rem; text-align:center;"><a href="/experience/iceye/"><b>Read more about my work at ICEYE</b></a></p>
+      <p style="margin-top: 1rem; text-align:center;"><a href="/content/experience/iceye/"><b>Read more about my work at ICEYE</b></a></p>
 
 
   - title: Geospatial Data Analyst

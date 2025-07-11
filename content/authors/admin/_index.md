@@ -60,7 +60,7 @@ social:
   link: https://linkedin.com/in/uditasopa
 - icon: github
   icon_pack: fab
-  link: https://github.com/uditasopaiceye
+  link: https://github.com/udit-asopa
 - icon: gravatar
   link: https://gravatar.com/uditasopa
 - icon: google-scholar
