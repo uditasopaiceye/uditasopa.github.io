@@ -11,7 +11,7 @@ weight: 3
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: <b>Education</b>
-subtitle: '<p style="margin-top: 1rem; text-align:left;"><a href="/content/courses/"><b>detailed description on my Education, Courses & Certifications</b></a></p>'
+subtitle: '<p style="margin-top: 1rem; text-align:left;"><a href="courses/"><b>detailed description on my Education, Courses & Certifications</b></a></p>'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
