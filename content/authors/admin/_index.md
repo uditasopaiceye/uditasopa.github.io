@@ -52,6 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/+358403515447/
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/uditasopa

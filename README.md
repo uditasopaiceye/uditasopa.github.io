@@ -1,32 +1,44 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# 🌐 Personal Website of Udit Asopa  
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+Welcome to the repository of my **personal website**, a curated digital space showcasing my journey through **geospatial science**, **remote sensing analytics**, **data engineering**, and interdisciplinary innovation. Built with care, clarity, and curiosity, this site is more than a portfolio, it's a **narrative of applied learning, impactful projects, and analytical rigor**.
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+---
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+## ✨ What's Inside
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+This website brings together:
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+- 👨‍🔬 **Professional Experience** — My work experience including the current one at ICEYE Oy in Finland 🇫🇮, Remote Sensing Data Researcher at TU Delft in Netherlands and Research Fellow at IIT Bombay in India
+- 🎓 **Academic Foundations** — Degrees and diplomas from institutions like IIRS-ISRO, RTU, and CDAC  
+- ♾️ **Certified Courses** — Data science, Git, project management, and EO analytics from Coursera and Udemy  
+- 🤖 **Workshops & Hackathons** — Hands-on projects in Finnish forestry, LiDAR, AI, and entrepreneurship  
+- 🌍 **Core Competencies** — A breakdown of technical skills across geospatial analytics, raster workflows, and EO modeling  
+- ⚙️ **Toolchains & Platforms** — The tech stack powering my daily work: Python, GEE, Power BI, QGIS, Git, and more  
+- 🎯 **Operational Strengths** — Soft skills, team dynamics, and delivery traits that make my contributions reliable and scalable  
 
-## Crowd-funded open-source software
+---
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## 🔧 Built With
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+This website is developed using:
 
-## Ecosystem
+- **Hugo** & **Wowchemy Theme** for blazing-fast performance and academic structure  
+- **Markdown**, **HTML**, and light **CSS tweaks** for custom styling and content elegance  
+- Modular widgets, dynamic content, and smooth responsive layouts  
 
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
+---
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+## 📁 Repository Structure
 
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+```bash
+.
+├── assets/                 # Custom styling and data files
+├── config/                 # Site configuration (menu, params, language, etc.)
+├── content/                # Main content pages (experience, projects, education, etc.)
+├── static/                 # Static assets like images, logos, PDFs
+└── README.md               # You’re here 😁
+
+```
+---
+
+**Enjoy the life** 🧬
