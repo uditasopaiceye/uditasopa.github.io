@@ -7,7 +7,7 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 2
 
 title: <b>Experience</b>
 subtitle: My professional work experience
@@ -67,6 +67,7 @@ experience:
   - title: Remote Sensing & GIS Researcher
     company: Delft University of Technology
     company_url: 'https://www.tudelft.nl/en/ceg'
+    company_logo: media/tudelft_logo.png
     location: Delft Netherlands
     date_start: '2020-04-01'
     date_end: '2021-04-01'
@@ -75,9 +76,9 @@ experience:
   - title: Jr. Remote Sensing & GIS Researcher
     company: Indian Institute of Technology
     company_url: 'https://www.csre.iitb.ac.in/'
+    company_logo: media/csre_logo.png
     location: Bombay, India
     date_start: '2019-09-01'
     date_end: '2020-02-28'
     description: SAR feature extraction, polar remote sensing, and field-based environmental data collection  for  cryosphere  research.  Integration  of  in-situ  snow  observations  with satellite imagery to support geophysical modelling. (Sentinel-1, RADARSAT, QGIS, Python)
 ---
-

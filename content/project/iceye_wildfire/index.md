@@ -10,6 +10,8 @@ tags:
 - Wildfire
 - Natural Catastrophe
 - Insurance
+- Scientific Communication
+- Geospatial Intelligence
 date: "2023-08-01"
 
 external_link: ""

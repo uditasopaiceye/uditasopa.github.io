@@ -9,6 +9,8 @@ tags:
 - Ground Stability
 - SAR
 - Remote Sensing
+- Scientific Communication
+- Geospatial Intelligence
 date: "2020-12-12"
 
 # Optional external URL for project (replaces project detail page).

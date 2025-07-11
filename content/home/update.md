@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 8
 
 title: <b>Update</b>
 subtitle: ''

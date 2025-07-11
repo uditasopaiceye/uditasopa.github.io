@@ -7,16 +7,16 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 4.5
 
 active: true
 
-title: "**Projects**"
-subtitle: 'Projects that I have actively worked on'
+title: "**Skills**"
+subtitle: 'Skills that I have acquired/practiced'
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: skills
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0

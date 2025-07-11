@@ -12,6 +12,8 @@ tags:
 - Tropical Storm
 - Natural Catastrophe
 - Insurance
+- Scientific Communication
+- Geospatial Intelligence
 date: "2025-07-01"
 
 # Optional external URL for project (replaces project detail page).

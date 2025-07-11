@@ -11,6 +11,8 @@ tags:
 - UAVSAR
 - TerraSAR-X
 - Remote Sensing
+- Scientific Communication
+- Geospatial Intelligence
 date: "2021-02-23"
 
 # Optional external URL for project (replaces project detail page).

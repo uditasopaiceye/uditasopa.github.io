@@ -7,6 +7,8 @@ tags:
 - Geospatial Science
 - Google Earth Engine
 - LiDAR
+- Scientific Communication
+- Geospatial Intelligence
 date: "2022-04-23"
 
 # Optional external URL for project (replaces project detail page).

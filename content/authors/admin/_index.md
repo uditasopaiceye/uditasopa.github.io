@@ -58,15 +58,24 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/uditasopaiceye
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/Udit_Asopa/
+- icon: gravatar
+  link: https://gravatar.com/uditasopa
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
   link: media/Udit_Asopa_CV_detailed.pdf
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/Udit_Asopa/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/uditasopa/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/i.am.u.a/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: udit.asopa@gmail.com
