@@ -11,7 +11,8 @@ title = "Udit Asopa"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://uditasopaiceye.github.io/"
+# update my base url to new username
+baseurl = "https://udit-asopa.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
