@@ -42,3 +42,5 @@ This website is developed using:
 ---
 
 **Enjoy the life** 🧬
+My Gravatar: https://gravatar.com/uditasopa
+My Portfolio: https://uditasopa.dorik.io/
